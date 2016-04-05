@@ -1,0 +1,6 @@
+framework module BJJT_Lib {
+  umbrella header "BJJT_Lib.h"
+
+  export *
+  module * { export * }
+}
